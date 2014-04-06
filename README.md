@@ -3,7 +3,7 @@
 
 `BlinkButton` is a subclass of `UIButton` with blink animation function.
 
-![BlinkButton Screenshot 1][img1]
+![BlinkButton ScreenShot 1](/BlinkButtonDemo/Screenshots/blinkButton.gif "BlinkButton action image.")
 
 ## Features
 
@@ -14,5 +14,19 @@
 * iOS 6.1+ 
 * ARC
 
+## Installation
+
+#### From source
+
+* Drag the `BlinkButton/` folder to your project.
+
+## Getting Started
+
+1. Make UIButton with BlinkButton.
+2. Call `toggleBlink` method. If it's animating return YES.
+
+
 [mitLink]:http://opensource.org/licenses/MIT
 [img1]:https://github.com/MitsuhideOhi/BlinkButton/blob/master/BlinkButtonDemo/Screenshots/blinkButton.gif
+
+
