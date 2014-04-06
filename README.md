@@ -23,7 +23,7 @@
 ## Getting Started
 
 1. Make UIButton with BlinkButton.
-2. Call `toggleBlink` method. If it's animating return YES.
+2. Call the `toggleBlink` method. If it's animating returns YES.
 
 
 [mitLink]:http://opensource.org/licenses/MIT
